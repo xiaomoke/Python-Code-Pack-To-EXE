@@ -1,0 +1,14 @@
+# 使用说明
+![img.png](img.png)
+
+pip install pyinstaller
+
+# 打包代码
+
+pyinstaller --onefile 示例代码.py
+
+pyinstaller --onefile add.py
+
+# 代码输入位置
+终端输入打包代码
+![img_2.png](img_2.png)
