@@ -15,6 +15,9 @@ pyinstaller --onefile add.py
 
 # 文件解释
 build文件夹：自动生成
+
 dist文件夹：自动生成，EXE文件所在位置
+
 VM文件夹：解释器配置信息
+
 .spec：打包的目录文件，自动生成
